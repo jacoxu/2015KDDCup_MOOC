@@ -9,4 +9,4 @@ Please feel free to send me emails (*jacoxu@msn.com*) if you have any problems.
 /JavaCode: java code for data process.  
 /MatlabCode: matlab code for features selection and classification.  
 /ResultAnalysis.xlsx: result analysis.  
-/大数据预测MOOCer是否会翘课-Jacoxu.docx
+/Instruction-Jacoxu.docx
